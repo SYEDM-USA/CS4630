@@ -1,0 +1,2 @@
+### Write a python GUI application, with an input text box, output text box and a ‘find’ button. The user enters the mRNA sequence in the input box, and hits find button. The program then populates the output box, for example: 3, 7 (meaning CAG occurs at position 3 and 7). Make sure the input box is a wraparound box so it can hold long strings like the one above, though the physical box is not big
+
